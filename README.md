@@ -18,6 +18,8 @@ Also includes:
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/DrawIO.png)
 
 -----
+-----
+-----
 
 # CLIENT:    
 ## HOME Screen
