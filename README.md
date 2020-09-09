@@ -23,8 +23,12 @@ Also includes:
 ## HOME Screen
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Home.png)
 
+-----
+
 ## Order Screen 
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Orders.png)
+
+-----
 
 ## Meals Screen 
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Meals.png)
