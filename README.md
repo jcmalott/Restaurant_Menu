@@ -25,20 +25,41 @@ Also includes:
 ## HOME Screen
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Home.png)
 
+<br />
+<br />
+<br />
+
 ## Order Screen 
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Orders.png)
+
+<br />
+<br />
+<br />
 
 ## Meals Screen 
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Meals.png)
 
+<br />
+<br />
+<br />
+
 ## Item Screen 
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Item.png)
 
-
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Server:  
 ## JSON Server 
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_JSON_Server.PNG)
+
+<br />
+<br />
+<br />
 
 ## JSON Server Page 
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_JSON_Page.PNG)
