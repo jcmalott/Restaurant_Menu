@@ -18,7 +18,7 @@ Also includes:
 
 
 
-** CLIENT: **  
+**CLIENT:**  
 # HOME Screen
 ![alt text](https://github.com/jcmalott/Restaurant_Menu/blob/master/pictures/Restaurant_Home.png)
 
