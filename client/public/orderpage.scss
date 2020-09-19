@@ -1,0 +1,60 @@
+.searchBar {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.prompt {
+  font-size: 35px;
+}
+
+.item {
+  display: flex !important;
+  padding: 25px 0 !important;
+  min-height: 300px;
+  max-height: 300px;
+  width: 100%;
+}
+
+.order-link {
+  display: flex;
+  min-height: 200px;
+  width: 100%;
+}
+
+.menu_img_wrapper {
+  margin-left: 20px;
+
+  display: flex;
+  align-items: center;
+}
+
+.item_icon {
+  width: 200px;
+}
+
+.menu-link{
+  display: flex;
+  align-items: center;
+  width: 75%;
+}
+
+.menu-price-text {
+  font-size: 35px;
+}
+
+.menu_button_wrapper {
+  width: 35%;
+}
+
+.menu-items-button {
+  float: right;
+  height: 250px;
+  width: 250px;
+  padding: 0 !important;
+  font-size: 30px !important;
+}
+
+.menu-add-cart {
+  width: 60%;
+}

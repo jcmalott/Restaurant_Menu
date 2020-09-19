@@ -1,0 +1,62 @@
+.menu-item-top-container {
+  display: block;
+  width: 500px;
+  margin: auto;
+}
+
+.menu-item-middle-container {
+  font-size: 50px;
+  min-height: 550px;
+  max-height: 550px;
+  margin: 100px 50px 0px 50px;
+}
+menu-item
+.menu-item-heading {
+  display: flex;
+  width: 100%;
+}
+
+.menu-item-title {
+  width: 70%;
+}
+
+.menu-item-price {
+  text-align: right;
+  width: 30%;
+}
+
+.menu-item-content {
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.menu-item-bottom-container {
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 140px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.customize-link {
+  max-width: 70%;
+  min-width: 70%;
+  align-self: center;
+}
+
+.menu-item-button {
+  font-size: 60px !important;
+  min-height: 120px;
+}
+
+.menu-item-button-customize {
+  width: 100%;
+}
+
+.menu-item-button-add {
+  max-width: 70%;
+  min-width: 70%;
+  align-self: center;
+}

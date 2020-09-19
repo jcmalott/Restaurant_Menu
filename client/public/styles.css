@@ -1,0 +1,193 @@
+body {
+  font-size: 55px;
+}
+
+a {
+  color: black;
+}
+a:hover {
+  color: black;
+}
+
+img {
+  width: 100%;
+}
+
+.headerLogo {
+  max-height: 400px;
+}
+
+.page-container {
+  min-width: 900px;
+}
+
+.homepage-wrapper {
+  position: absolute;
+  top: 400px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.homepage-image {
+  height: 100%;
+}
+
+.footer {
+  position: fixed;
+  background-color: #FEFEFA;
+  bottom: 0;
+  padding-bottom: 10px;
+  width: 100%;
+  min-width: 900px;
+  touch-action: manipulation;
+  border-top: 1px solid black;
+  box-shadow: 0px -4px rgba(0, 0, 0, 0.2);
+  font-size: 30px;
+}
+
+.footer-icon {
+  height: 70px;
+  width: 70px;
+}
+
+.footer-icon-home {
+  float: left;
+  margin-left: 40px;
+}
+
+.footer-icon-order {
+  float: left;
+  margin-left: 35%;
+}
+
+.footer-icon-checkout {
+  float: right;
+  margin-right: 40px;
+  text-align: center;
+}
+
+.searchBar {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.prompt {
+  font-size: 35px;
+}
+
+.item {
+  display: flex !important;
+  padding: 25px 0 !important;
+  min-height: 300px;
+  max-height: 300px;
+  width: 100%;
+}
+
+.order-link {
+  display: flex;
+  min-height: 200px;
+  width: 100%;
+}
+
+.menu_img_wrapper {
+  margin-left: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.item_icon {
+  width: 200px;
+}
+
+.menu-link {
+  display: flex;
+  align-items: center;
+  width: 75%;
+}
+
+.menu-price-text {
+  font-size: 35px;
+}
+
+.menu_button_wrapper {
+  width: 35%;
+}
+
+.menu-items-button {
+  float: right;
+  height: 250px;
+  width: 250px;
+  padding: 0 !important;
+  font-size: 30px !important;
+}
+
+.menu-add-cart {
+  width: 60%;
+}
+
+.menu-item-top-container {
+  display: block;
+  width: 500px;
+  margin: auto;
+}
+
+.menu-item-middle-container {
+  font-size: 50px;
+  min-height: 550px;
+  max-height: 550px;
+  margin: 100px 50px 0px 50px;
+}
+
+menu-item .menu-item-heading {
+  display: flex;
+  width: 100%;
+}
+
+.menu-item-title {
+  width: 70%;
+}
+
+.menu-item-price {
+  text-align: right;
+  width: 30%;
+}
+
+.menu-item-content {
+  font-size: 40px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.menu-item-bottom-container {
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 140px;
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.customize-link {
+  max-width: 70%;
+  min-width: 70%;
+  align-self: center;
+}
+
+.menu-item-button {
+  font-size: 60px !important;
+  min-height: 120px;
+}
+
+.menu-item-button-customize {
+  width: 100%;
+}
+
+.menu-item-button-add {
+  max-width: 70%;
+  min-width: 70%;
+  align-self: center;
+}
+
+/*# sourceMappingURL=styles.css.map */
